@@ -2,7 +2,7 @@ name: Auto publish and create release
 on:
     push:
       branches:
-        - master
+        - main
 jobs:
   autorelease:
     permissions:
