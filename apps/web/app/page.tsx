@@ -68,7 +68,7 @@ export default function Page(): JSX.Element {
             <Image
               alt="Vercel Logo"
               className={styles.vercelLogo}
-              height={24}
+              height={25}
               priority
               src="/vercel.svg"
               width={100}
