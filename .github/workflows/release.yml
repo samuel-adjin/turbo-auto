@@ -1,10 +1,10 @@
-name: Auto publish and create release
+name: Publish and create release
 on:
     push:
       branches:
         - main
 jobs:
-  autorelease:
+  release:
     permissions:
       contents: write
       issues: write
