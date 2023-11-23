@@ -8,6 +8,9 @@ importers:
 
   .:
     devDependencies:
+      '@auto-it/git-tag':
+        specifier: ^11.0.4
+        version: 11.0.4(@types/node@20.5.2)(typescript@5.2.2)
       '@repo/eslint-config':
         specifier: workspace:*
         version: link:packages/eslint-config
@@ -245,6 +248,21 @@ packages:
       - '@swc/wasm'
       - encoding
       - supports-color
+    dev: true
+
+  /@auto-it/git-tag@11.0.4(@types/node@20.5.2)(typescript@5.2.2):
+    resolution: {integrity: sha512-Wc50nr4fJFy+NqhdlkbnH7KCuFq9FS/mrtdlcgNNkOsO15lQ8E8aktu3yfH5+rTtsVow9yArAWH7j0XhLU0hSw==}
+    dependencies:
+      '@auto-it/core': 11.0.4(@types/node@20.5.2)(typescript@5.2.2)
+      semver: 7.5.4
+      tslib: 2.1.0
+    transitivePeerDependencies:
+      - '@swc/core'
+      - '@swc/wasm'
+      - '@types/node'
+      - encoding
+      - supports-color
+      - typescript
     dev: true
 
   /@auto-it/npm@11.0.4(@types/node@20.5.2)(typescript@5.2.2):
