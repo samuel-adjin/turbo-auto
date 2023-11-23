@@ -10,6 +10,7 @@
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
+    "auto": "^11.0.4",
     "prettier": "^3.1.0",
     "turbo": "latest"
   },
