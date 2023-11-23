@@ -30,7 +30,7 @@ jobs:
         run: |
           pnpm install
           pnpm ci
-          npx auto create-labels
+          # npx auto create-labels
           npx auto shipit
 
 
