@@ -29,7 +29,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           pnpm install
-          npx auto create-labels
           npx auto shipit
 
 #ghghg jjj kk kkgkhkhk jjj

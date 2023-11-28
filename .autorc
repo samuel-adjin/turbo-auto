@@ -6,5 +6,6 @@
   "owner": "samuel-adjin",
   "repo": "turbo-auto",
   "name": "samuel-adjin",
-  "email": "samuel.adjin@amalitech.org"
+  "email": "samuel.adjin@amalitech.org",
+  "onlyPublishWithReleaseLabel": true
 }
