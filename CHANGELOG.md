@@ -1,3 +1,24 @@
+# v0.2.0 (Tue Nov 28 2023)
+
+#### 🚀 Enhancement
+
+- feat(pencil): add 'graphiteWidth' option [#16](https://github.com/samuel-adjin/turbo-auto/pull/16) ([@samuel-adjin](https://github.com/samuel-adjin))
+- feat(pencil): add 'graphiteWidth' option [#15](https://github.com/samuel-adjin/turbo-auto/pull/15) ([@samuel-adjin](https://github.com/samuel-adjin))
+- feat!: send an email to the customer when a product is shipped [#14](https://github.com/samuel-adjin/turbo-auto/pull/14) ([@samuel-adjin](https://github.com/samuel-adjin))
+- feat(pencil): add 'graphiteWidth' option [#13](https://github.com/samuel-adjin/turbo-auto/pull/13) ([@samuel-adjin](https://github.com/samuel-adjin))
+- feat(pencil): add 'graphiteWidth' option [#12](https://github.com/samuel-adjin/turbo-auto/pull/12) ([@samuel-adjin](https://github.com/samuel-adjin))
+
+#### 🐛 Bug Fix
+
+- BREAKING CHANGE: dropping Node 6 which hits end of life in April [#18](https://github.com/samuel-adjin/turbo-auto/pull/18) ([@samuel-adjin](https://github.com/samuel-adjin))
+- BREAKING CHANGE: dropping Node 6 which hits end of life in April [#17](https://github.com/samuel-adjin/turbo-auto/pull/17) ([@samuel-adjin](https://github.com/samuel-adjin))
+
+#### Authors: 1
+
+- Samuel ([@samuel-adjin](https://github.com/samuel-adjin))
+
+---
+
 # v0.1.0 (Thu Nov 23 2023)
 
 #### 🚀 Enhancement
