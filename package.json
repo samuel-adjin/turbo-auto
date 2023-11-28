@@ -12,6 +12,7 @@
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
     "auto": "^11.0.4",
+    "conventional-changelog-angular": "^7.0.0",
     "prettier": "^3.1.0",
     "turbo": "latest"
   },
