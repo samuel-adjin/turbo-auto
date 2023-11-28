@@ -1,7 +1,7 @@
 {
   "plugins": [
     "git-tag",
-    "conventional-commits"
+    ["conventional-commits", { "preset": "angular" }]
   ],
   "owner": "samuel-adjin",
   "repo": "turbo-auto",
